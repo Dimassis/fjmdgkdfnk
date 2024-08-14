@@ -9,6 +9,5 @@ public class Main {
 
         pupils.comparisonOutsideFaculty("Harry Potter", "Marcus Belby");
         pupils.comparisonInsideFaculty("Padma Patil", "Zhou Chang");
-        // Hermione Granger
     }
 }
